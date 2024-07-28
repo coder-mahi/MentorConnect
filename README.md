@@ -1,0 +1,2 @@
+MentorConnect is a comprehensive Android application designed to bridge the gap between students and mentors. It aims to provide students with access to experienced mentors who can guide them in their academic, professional, and personal development. The app facilitates seamless communication, resource sharing, and progress tracking, making it easier for students to achieve their goals with the help of expert guidance.
+
